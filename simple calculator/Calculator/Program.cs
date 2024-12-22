@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Калькулятор запущен!\n");
+﻿Console.WriteLine("Калькулятор запущен!\n");
 
 double consoleNumber1, consoleNumber2;
 string mathOperation;
