@@ -90,12 +90,3 @@ static int[] GetPoweredArray(int[] arr, int power)
 
     return newArray;
 }*/
-
-void GetJopa()
-{
-    Console.WriteLine("Кто ты? ");
-    var j = Console.ReadLine();
-    Console.WriteLine($"{j}, ты жопа!");
-}
-
-GetJopa();
