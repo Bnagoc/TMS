@@ -1,0 +1,15 @@
+E:\dev\TMS\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\dev\TMS\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\dev\TMS\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\dev\TMS\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\dev\TMS\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\dev\TMS\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
